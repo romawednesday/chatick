@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\chatik\ClientChat\bin\Debug\ClientChat.exe.config
+C:\Users\Admin\Desktop\chatik\ClientChat\bin\Debug\ClientChat.exe
+C:\Users\Admin\Desktop\chatik\ClientChat\bin\Debug\ClientChat.pdb
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat_MarkupCompile.cache
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat.g.resources
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat.exe
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat.pdb
+C:\Users\Admin\Desktop\chatik\ClientChat\obj\Debug\ClientChat_MarkupCompile.lref
